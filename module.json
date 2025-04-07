@@ -1,6 +1,6 @@
 {
-  "id": "token-action-hud-template",
-  "title": "Token Action HUD Template",
+  "id": "token-action-hud-tormenta20",
+  "title": "Token Action HUD tormenta20",
   "description": "Token Action HUD is a repositionable HUD of actions for a selected token",
   "authors": [
     {
@@ -18,10 +18,9 @@
   "esmodules": [
     "./scripts/init.js"
   ],
-  "scripts": [
-  ],
+  "scripts": [],
   "styles": [
-    "./styles/tah-template-style.css"
+    "./styles/tah-tormenta20-style.css"
   ],
   "languages": [
     {
@@ -34,7 +33,7 @@
   "relationships": {
     "systems": [
       {
-        "id": "template",
+        "id": "tormenta20",
         "type": "system",
         "compatibility": [
           {
@@ -65,7 +64,7 @@
   "socket": false,
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
-  "readme": "https://github.com/Larkinabout/fvtt-token-action-hud-template#readme",
+  "readme": "https://github.com/Larkinabout/fvtt-token-action-hud-tormenta20#readme",
   "protected": false,
   "coreTranslation": false,
   "library": false
