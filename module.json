@@ -1,5 +1,6 @@
 {
   "id": "token-action-hud-tormenta20",
+  "name": "fvtt-token-action-hud-t20",
   "title": "Token Action HUD tormenta20",
   "description": "Token Action HUD is a repositionable HUD of actions for a selected token",
   "authors": [
@@ -41,8 +42,8 @@
         "type": "system",
         "compatibility": [
           {
-            "minimum": "1.0.0",
-            "verified": "1.0.0"
+            "minimum": "1.4.213",
+            "verified": "1.4.213"
           }
         ]
       }
@@ -54,7 +55,7 @@
         "compatibility": [
           {
             "minimum": "1.5.0",
-            "maximum": "1.5",
+            "maximum": "2.0",
             "verified": "1.5.0"
           }
         ]
