@@ -6,6 +6,10 @@
     {
       "name": "Larkinabout",
       "url": "https://github.com/Larkinabout"
+    },
+    {
+      "name": "Heitor",
+      "url": "https://github.com/HeitorBittenc"
     }
   ],
   "url": "This is auto replaced",
@@ -64,7 +68,7 @@
   "socket": false,
   "manifest": "This is auto replaced",
   "download": "This is auto replaced",
-  "readme": "https://github.com/Larkinabout/fvtt-token-action-hud-tormenta20#readme",
+  "readme": "https://github.com/HeitorBittenc/fvtt-token-action-hud-t20#readme",
   "protected": false,
   "coreTranslation": false,
   "library": false
